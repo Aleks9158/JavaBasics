@@ -1,4 +1,4 @@
-package com.syntax.class10;
+ package com.syntax.class10;
 
 public class HwSwap2NumbWithoutTempVar {
 //Write a program to swap 2 numbers without a temporary variable?

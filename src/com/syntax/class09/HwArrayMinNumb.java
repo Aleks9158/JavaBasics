@@ -1,5 +1,7 @@
 package com.syntax.class09;
 
+
+
 public class HwArrayMinNumb {
 
 	public static void main(String[] args) {
